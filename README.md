@@ -10,8 +10,8 @@
   For this assignment I was instructed to create an a text editor application that meets the criteria of a progressive web application. The application features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser and can also run offline.
 
   ## Deployed App
-  https://dashboard.heroku.com/apps/rocky-peak-79033
-  
+  https://rocky-peak-79033.herokuapp.com/
+
   ## Usage
   Text editor is free to use. Just follow the deployed link.
   
